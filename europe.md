@@ -1,7 +1,6 @@
 | Country | Requirement | Fee | Length |  |
 | --- | --- | --- | --- | --- |
-| Georgia | $2000 per month or $24000 in bank statement | free | 1 year; business entrepreneur can lead to PR | 20% tax rate if stay > 183 days; 1% for individual entrepreneur;
- |
+| Georgia | $2000 per month or $24000 in bank statement | free | 1 year; business entrepreneur can lead to PR | 20% tax rate if stay > 183 days; 1% for individual entrepreneur;|
 | Croatia | €2,232 per month or €26,790 for 12 months stay | €80 to €130 | 1 year, can be reapplied for after 6 months away |  |
 | Czechia Republic | €5,587 in the bank per person | free | 1 year, but can be extended | €70 tax per month |
 | Estonia | €3,504 per month | €80 short stay, €100 long stay | 1 year |  |
